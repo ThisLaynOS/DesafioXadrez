@@ -70,7 +70,7 @@ int main() {
     // so executados apos completar o movimento vertical
     int j = 0;
     while (j < casasEsquerda) {
-        printf("Esquerda\n");
+        printf("Esquerda \n");
         j++;
     }
 
